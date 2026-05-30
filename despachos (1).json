@@ -1,0 +1,47 @@
+[
+  {
+    "id": 101,
+    "finca": "El Agrado",
+    "municipio": "Pitalito",
+    "pesoKilos": 5000,
+    "tipoCafe": "Supremo",
+    "conductorId": "driver-77",
+    "estado": "en_centro_acopio"
+  },
+  {
+    "id": 102,
+    "finca": "La Esmeralda",
+    "municipio": "Garzón",
+    "pesoKilos": 3200,
+    "tipoCafe": "Geisha",
+    "conductorId": "driver-12",
+    "estado": "en_transito_puerto"
+  },
+  {
+    "id": 103,
+    "finca": "Santa Bárbara",
+    "municipio": "San Agustín",
+    "pesoKilos": 4500,
+    "tipoCafe": "Castillo",
+    "conductorId": "driver-88",
+    "estado": "en_centro_acopio"
+  },
+  {
+    "id": 104,
+    "finca": "Los Naranjos",
+    "municipio": "Acevedo",
+    "pesoKilos": 6000,
+    "tipoCafe": "Bourbon",
+    "conductorId": "driver-45",
+    "estado": "en_transito_puerto"
+  },
+  {
+    "id": 105,
+    "finca": "La Riviera",
+    "municipio": "Gigante",
+    "pesoKilos": 2800,
+    "tipoCafe": "Tabi",
+    "conductorId": "driver-33",
+    "estado": "en_centro_acopio"
+  }
+]
